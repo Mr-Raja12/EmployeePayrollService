@@ -7,7 +7,7 @@ public class EmployeePayrollData {
     String name;
     double salary;
 
-    //Create parameterized constructor using id, name, salary parameters
+    //Create parameterized constructor using id, name, salary parameter
     public EmployeePayrollData(int id, String name, double salary) {
         this.id = id;
         this.name = name;
